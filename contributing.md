@@ -51,7 +51,7 @@ HyunCafe (https://github.com/HyunCafe)<br>
 - EddoCod3 (https://github.com/eddoCod3) <br>
  "In 2023 i want to improve my knowledge, and also learn more tech stacks, and create a first prototype of my portfolio , to show in social media."
 ## F
-
+ 
 ## G
 
 - Golluméo (https://github.com/gollumeo)
@@ -160,6 +160,8 @@ HyunCafe (https://github.com/HyunCafe)<br>
   "Let's fulfill this full-time Full Stack role, full stop. Also need to get these Go apps launched and contribute to projects outside of my comfort zone. 🌱 -- Cool stuff @HyunCafe"
 
 ## U
+-  UilKnarf (https://github.com/UilKnarf) <br>
+  "In 2024 I want to be able to get a job as a Software Engineer and continue of this learning journey."
 
 ## V
 
